@@ -16,7 +16,7 @@ print(bozorlik)
 
 # reverse teskariga aylantirish
 
-sonlar=[8,-6,3,7,99,1,2,-5,]
+sonlar=[8,-6,3,7,99,1,2,-5,5,5]
 print(sorted(sonlar, reverse=True))
 
 # len uzunlikni o'lchaydi
