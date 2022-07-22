@@ -125,5 +125,4 @@ for ism, info in hamkasblar.items():
         print(ism)
      if info['tyil']==2001:
         print(ism)
-    if info['malumot']=='oliy':
-        print(ism)
+    
