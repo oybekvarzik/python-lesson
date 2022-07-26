@@ -104,12 +104,25 @@
 #     print(info)
 
 
-def sonlar(x,y,z):
-    max=x
-    if y>=max:
-        max=y
-    if z>=max:
-        max=z
-    return max
-son=sonlar(150,65,5)
-print(son)
+# def sonlar(x,y,z):
+#     max=x
+#     if y>=max:
+#         max=y
+#     if z>=max:
+#         max=z
+#     return max
+# # son=sonlar(150,65,500)
+# # print(son)
+#
+# talabalar = ['ali', 'vali', 'hasan', 'husan']
+# def bahola(ismlar):
+#
+#     baholar={}
+#     while ismlar:
+#         ism=ismlar.pop()
+#         baho=input(f"talaba {ism.title()} ning bahosi kiriting: ")
+#         baholar[ism]=int(baho)
+#     return baholar
+#
+# baholar=bahola(talabalar)
+# print(baholar)
